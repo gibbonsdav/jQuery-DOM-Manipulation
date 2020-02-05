@@ -11,6 +11,7 @@ html {
   padding: 0;
   list-style: none;
   width: 500px;
+  margin: 200px auto;
 }
 
 #tabs {
